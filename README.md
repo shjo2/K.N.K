@@ -1,1 +1,1 @@
-# K.N.K
+# C Programming: A Modern Approach 2nd Edition
