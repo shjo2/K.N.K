@@ -13,5 +13,55 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Chapter 07">
+      <UniqueIdentifier>{202fa7a2-8659-40ac-a884-f96dddf57ebc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Project01.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project02.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project03.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project04.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project05.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project06.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project07.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project08.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project09.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project10.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project11.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project12.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project13.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project14.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
+    <ClCompile Include="Project15.c">
+      <Filter>소스 파일\Chapter 07</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
